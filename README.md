@@ -30,3 +30,7 @@ $$
 ## Sources de données
 - INSEE : [Tables de mortalité](https://www.insee.fr/fr/statistiques/2414942)  
 - Eurostat : [Life tables](https://ec.europa.eu/eurostat/web/population-demography)  
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
