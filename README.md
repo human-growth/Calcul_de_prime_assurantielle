@@ -7,7 +7,10 @@ Tarifer un contrat décès temporaire à partir d’une table de mortalité et d
 - Utilisation d’une table de mortalité (INSEE, HMD).
 - Calcul des probabilités conditionnelles de décès/survie.
 - Calcul de la prime pure :
-  π = Σ (v^t * q_{x+t-1} * p_x^{t-1} * C)
+ $$
+\pi = \sum_{t=1}^{n} \left( v^t \cdot q_{x+t-1} \cdot p_x^{t-1} \cdot C \right)
+$$
+
 - Comparaison capital unique vs rente.
 - Visualisations : évolution de la prime selon âge, durée, capital, taux d’intérêt.
 
